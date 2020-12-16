@@ -1,0 +1,9 @@
+server:
+  port: 8001
+ 
+spring:
+  jms:
+    servicebus:
+      connection-string: "Endpoint=sb://testesb01.servicebus.windows.net/;SharedAccessKeyName=RootManageSharedAccessKey;SharedAccessKey=RQC4aBSXUi8EPzKUq9jp509PwZLUsgIhKwWp3YVJj04="
+      
+      
